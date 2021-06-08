@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steve Arty\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\CrusadersConquest.csproj": {}
+    "C:\\Users\\Win\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\CrusadersConquest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steve Arty\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\CrusadersConquest.csproj": {
+    "C:\\Users\\Win\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\CrusadersConquest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steve Arty\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\CrusadersConquest.csproj",
+        "projectUniqueName": "C:\\Users\\Win\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\CrusadersConquest.csproj",
         "projectName": "CrusadersConquest",
-        "projectPath": "C:\\Users\\Steve Arty\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\CrusadersConquest.csproj",
-        "packagesPath": "C:\\Users\\Steve Arty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steve Arty\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\obj\\",
+        "projectPath": "C:\\Users\\Win\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\CrusadersConquest.csproj",
+        "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Win\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CrusadersConquest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Steve Arty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Win\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,10 +22,12 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
         },
         "frameworks": {
           "net45": {
+            "targetAlias": "net45",
             "projectReferences": {}
           }
         },
@@ -37,13 +39,14 @@
       },
       "frameworks": {
         "net45": {
+          "targetAlias": "net45",
           "dependencies": {
             "tModLoader.CodeAssist": {
               "target": "Package",
               "version": "[0.1.*, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
