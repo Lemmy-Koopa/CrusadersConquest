@@ -1,0 +1,3 @@
+displayName = Crusaders Conquest
+author = CC Dev Team
+version = 0.1
