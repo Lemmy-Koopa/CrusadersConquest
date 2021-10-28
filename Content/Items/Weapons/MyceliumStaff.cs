@@ -48,6 +48,6 @@ namespace CrusadersConquest.Content.Items.Weapons
 			return false;
 		}
 	}
-	//Crafted With Wood, Mushrooms, Wildnature Element.
+	//Crafted With Wood, Mushrooms, Wildnature Element. Test
 }
 
